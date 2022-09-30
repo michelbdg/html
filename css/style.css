@@ -1,0 +1,21 @@
+body{
+    background: url(../media/MJ.jpg);
+}
+header{
+    background: red;
+    height: 15rem;
+    color: antiquewhite;
+    justify-content: space-around;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: lightslategray;
+    height: 2rem;
+}
+h1{
+    height: 13rem;
+    justify-content: center;
+    padding-left: 45%;
+}
